@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/graphic">
+        <file alias="Logo">graphic/krakow_kings_logo.jpg</file>
+    </qresource>
+</RCC>
